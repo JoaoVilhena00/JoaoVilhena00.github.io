@@ -1,6 +1,6 @@
 ---
 title: Subjects
-layout : default
+layout : single
 
 ---
 
